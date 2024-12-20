@@ -12,7 +12,7 @@ In order to launch the scripts in this repo, you have to:
 Here are some simple guidelines on common steps to take:
 
 ## Download event results
-    `python ./bin/download_event_results.py
+    python ./bin/download_event_results.py
 
 ## GIT push
-    `git push https://<<username>>@github.com/gianmarcodonetti/zwiftpower-api.git
+    git push https://<username>@github.com/gianmarcodonetti/zwiftpower-api.git
