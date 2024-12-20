@@ -3,6 +3,7 @@ import os
 import re
 import logging
 import sys
+import warnings
 from datetime import datetime
 import pandas as pd
 from getpass import getpass
@@ -11,7 +12,10 @@ from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
+from selenium.common.exceptions import NoSuchElementException
 from bs4 import BeautifulSoup
+
+warnings.filterwarnings("ignore")
 
 CHROME_DRIVER_PATH = './driver/chromedriver.exe'
 SLEEP_TIME = 3
@@ -22,7 +26,7 @@ TABLE_EVENT_RESULTS_FINAL="table_event_results_final"
 login_button = '//*[@id="login"]/fieldset/div/div[1]/div/a'
 username_xpath = '//*[@id="username"]'
 password_xpath = '//*[@id="password"]'
-table_xpath = f'//*[@id={TABLE_EVENT_RESULTS_FINAL}]'
+table_xpath = '//*[@id="table_event_results_final"]'
 
 mapping_trophy_to_position = {
     'color:#FDD017': '1',
@@ -64,37 +68,41 @@ def main():
     logging.info("Starting the driver")
     driver = webdriver.Chrome(options=chrome_opts, service=service)
 
-    start_time = time.time()
+    start_time = datetime.now()
     screenshots_path = os.path.join("screenshots", "timestamp={}".format(start_time.strftime("%Y-%m-%d_%H-%M-%S")))
     if not os.path.exists(screenshots_path):
         os.makedirs(screenshots_path)
     
-    logging.info("Driver started. Asking for credentials")
-    username = input("Username: ") # gianmarco.donetti
-    password = getpass("Password: ") # keep it safe
+    logging.info("Driver started. Waiting for the user to input the event page...")
     event_page = input("Event results page: ") # "https://zwiftpower.com/events.php?zid=4616453"
     
+    logging.info("Navigating to the event page")
     driver.get(event_page)
     time.sleep(SLEEP_TIME)
     driver.maximize_window()
     driver.save_screenshot(os.path.join(screenshots_path, "landing_page.png"))
 
-    # login redirect
-    logging.info("Logging in")
-    element = driver.find_element(By.XPATH, login_button)
-    element.click()
-    driver.save_screenshot(os.path.join(screenshots_path, "login.png"))
+    try:
+        # login redirect
+        logging.info("Logging in")
+        element = driver.find_element(By.XPATH, login_button)
+        element.click()
+        driver.save_screenshot(os.path.join(screenshots_path, "login.png"))
 
-    driver.find_element(By.XPATH, username_xpath).send_keys(username)
-    driver.find_element(By.XPATH, password_xpath).send_keys(password)
-    driver.find_element(By.XPATH, '//*[@id="submit-button"]').click()
+        username = input("Username: ") # gianmarco.donetti
+        password = getpass("Password: ") # keep it safe
+        driver.find_element(By.XPATH, username_xpath).send_keys(username)
+        driver.find_element(By.XPATH, password_xpath).send_keys(password)
+        driver.find_element(By.XPATH, '//*[@id="submit-button"]').click()
 
-    driver.save_screenshot(os.path.join(screenshots_path, "inside.png"))
+        driver.save_screenshot(os.path.join(screenshots_path, "inside.png"))
 
-    # reset home page
-    logging.info("Resetting the page after login")
-    driver.get(event_page)
-    driver.save_screenshot(os.path.join(screenshots_path, "event_page_reset.png"))
+        # reset home page
+        logging.info("Resetting the page after login")
+        driver.get(event_page)
+        driver.save_screenshot(os.path.join(screenshots_path, "event_page_reset.png"))
+    except NoSuchElementException:
+        logging.info("Already logged in")
 
     # scrape the table results
     logging.info("Scraping the table")
@@ -168,9 +176,10 @@ def main():
     df['Zwift_ID'] = zwift_ids
 
     event_id = event_page.split('=')[-1]
-    filename = os.path.join("data", f"event_{event_id}_results.xlsx")
+    filename = os.path.join("data", f"event_{event_id}_results")
     logging.info("Saving the results to excel: {}".format(filename))
-    df.to_excel(filename, index=False)
+    df.to_excel(filename + ".xlsx", index=False)
+    df.to_csv(filename + ".csv", index=False)
 
 
 if __name__ == '__main__':

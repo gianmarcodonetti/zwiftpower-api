@@ -1,0 +1,180 @@
+cat,#,Rider,Time,avg,watts,NP,20m,5m,1m,30s,15s,,Age,Avg,Max,,Gain,,Finish_Time,Finish_Gap,Zwift_ID
+A,1,Christian Kaldbar,29:08,5.1w/kg,367w,409w,5.1w/kg,5.9w/kg,9.6w/kg,10.1w/kg,10.5w/kg,72.0kg,Mas,168bpm,188bpm,180cm,7.91,,29:08,0.0,451669
+A,2,Richard Barry | NeXT pb Enshored,29:11+2.403s,4.7w/kg,284w,326w,4.8w/kg,5.5w/kg,8.8w/kg,9.0w/kg,9.8w/kg,60.0kg,Mas,161bpm,187bpm,173cm,,,29:11,2.403,889860
+A,3,Hywel Davies,29:12+3.625s,4.7w/kg,302w,340w,4.7w/kg,5.4w/kg,8.7w/kg,9.5w/kg,10.1w/kg,64.0kg,Vet,142bpm,170bpm,175cm,,,29:12,3.625,1119043
+A,4,Ali Slater ,29:12+3.995s,4.5w/kg,331w,369w,4.5w/kg,5.3w/kg,8.5w/kg,9.2w/kg,10.2w/kg,73.0kg,Mas,181bpm,206bpm,183cm,102.41,,29:12,3.995,700006
+A,5,Sjors Beukeboom,29:13+4.135s,4.7w/kg,295w,330w,4.7w/kg,5.3w/kg,8.1w/kg,8.9w/kg,10.3w/kg,63.0kg,Snr,158bpm,186bpm,179cm,,,29:13,4.135,1843342
+A,6,Eric E. Noreen,29:13+4.312s,4.4w/kg,317w,353w,4.5w/kg,5.0w/kg,7.6w/kg,8.1w/kg,9.4w/kg,72.0kg,50+,165bpm,185bpm,177cm,,,29:13,4.312,96320
+A,7,Narimantas Satkus,29:14+5.728s,4.5w/kg,293w,325w,4.5w/kg,4.9w/kg,7.0w/kg,8.2w/kg,10.1w/kg,65.0kg,Vet,166bpm,186bpm,171cm,,,29:14,5.728,4389401
+A,8,Jerry Eriksson [SZ],29:14+5.892s,4.7w/kg,318w,348w,4.7w/kg,5.1w/kg,7.8w/kg,8.1w/kg,9.1w/kg,68.0kg,Vet,149bpm,169bpm,177cm,,,29:14,5.892,2821974
+A,9,Alexander Bojsen [Enduga.dk/ACR],29:16+7.611s,4.1w/kg,318w,361w,4.1w/kg,4.7w/kg,6.8w/kg,7.8w/kg,8.6w/kg,77.3kg,Mas,152bpm,179bpm,178cm,,,29:16,7.611,131584
+A,10,Chris Ostberg  [R2R] ,29:22+13.388s,4.3w/kg,403w,435w,4.4w/kg,4.7w/kg,5.8w/kg,7.3w/kg,8.5w/kg,92.8kg,Vet,168bpm,180bpm,180cm,20.35,,29:22,13.388,411944
+A,11,Mikkel Klose,29:22+14.023s,4.4w/kg,327w,361w,4.4w/kg,5.2w/kg,7.2w/kg,8.1w/kg,10.6w/kg,,-,,,,,,29:22,14.023,5475887
+A,12,Bert Verberckmoes (SPSD),29:28+19.186s,4.6w/kg,346w,369w,4.7w/kg,5.2w/kg,6.2w/kg,7.2w/kg,7.4w/kg,75.0kg,Mas,169bpm,185bpm,180cm,79.26,,29:28,19.186,3510176
+A,13,Matt Peirce (VOranje),29:29+21.067s,4.6w/kg,281w,298w,4.6w/kg,5.0w/kg,6.3w/kg,7.0w/kg,7.9w/kg,61.6kg,Mas,170bpm,180bpm,167cm,,,29:29,21.067,65581
+A,14,Jakob Stage,29:32+23.940s,4.4w/kg,338w,364w,4.4w/kg,5.0w/kg,5.9w/kg,6.9w/kg,7.8w/kg,77.0kg,Snr,175bpm,184bpm,185cm,73.47,,29:32,23.94,5722976
+A,15,Andreas Schitter (KC-A2),31:50+02:41,3.9w/kg,252w,275w,4.1w/kg,4.8w/kg,5.8w/kg,6.7w/kg,7.7w/kg,64.3kg,50+,169bpm,187bpm,176cm,,,31:50,161.0,2165929
+A,16,Thomas Pothof,32:00+02:51,4.5w/kg,317w,329w,4.5w/kg,5.3w/kg,6.8w/kg,8.6w/kg,10.4w/kg,70.0kg,Jnr,188bpm,209bpm,184cm,67.68,,32:00,171.0,4576159
+A,17,Oliver Milk [Wahoo Esports],32:00+02:51,4.1w/kg,316w,334w,4.1w/kg,4.8w/kg,6.0w/kg,7.0w/kg,7.8w/kg,77.5kg,Vet,152bpm,173bpm,180cm,,,32:00,171.0,50486
+A,18,Rafał Sterbenz,32:06+02:57,4.2w/kg,353w,367w,4.1w/kg,4.8w/kg,5.7w/kg,6.3w/kg,7.7w/kg,85.0kg,Vet,159bpm,179bpm,176cm,,,32:06,177.0,6536992
+A,19,Lukas J,32:19+03:10,4.4w/kg,280w,297w,4.6w/kg,5.0w/kg,6.2w/kg,6.9w/kg,7.9w/kg,63.0kg,Snr,187bpm,200bpm,183cm,,,32:19,190.0,4575299
+A,20,John Harrison   (Team Cadence),33:00+03:51,3.8w/kg,310w,331w,3.8w/kg,4.5w/kg,5.4w/kg,6.1w/kg,7.2w/kg,81.0kg,50+,162bpm,182bpm,191cm,,,33:00,231.0,3574073
+A,21,Gautier Debyser (OTR),33:05+03:57,3.9w/kg,280w,299w,3.9w/kg,4.5w/kg,5.6w/kg,6.2w/kg,7.3w/kg,72.1kg,Mas,158bpm,201bpm,187cm,,,33:05,237.0,250099
+A,22,Mikael Hansson [SZR] ,39:27+10:18,2.7w/kg,220w,228w,2.9w/kg,3.0w/kg,3.9w/kg,4.1w/kg,4.6w/kg,81.0kg,60+,143bpm,155bpm,178cm,,,39:27,618.0,987298
+A,23,G Tougas BartCoaching,40:18+11:09,2.7w/kg,222w,227w,2.8w/kg,3.0w/kg,3.4w/kg,4.0w/kg,4.8w/kg,81.0kg,Vet,116bpm,129bpm,174cm,47.42,,40:18,669.0,1138753
+B,1,thony BEAUDOIN,30:55,4.2w/kg,301w,327w,4.3w/kg,5.1w/kg,6.8w/kg,8.3w/kg,8.9w/kg,72.0kg,Vet,154bpm,181bpm,178cm,91.88,,30:55,0.0,1895934
+B,2,David Roche (Some Work All Play),30:56+0.574s,4.7w/kg,296w,309w,4.8w/kg,5.7w/kg,6.9w/kg,7.9w/kg,9.1w/kg,62.6kg,Mas,158bpm,179bpm,177cm,15.10,,30:56,0.574,1702097
+B,3,Dries Vercruyce,30:57+1.765s,4.2w/kg,332w,354w,4.3w/kg,4.9w/kg,6.1w/kg,7.4w/kg,9.0w/kg,79.0kg,Mas,181bpm,198bpm,190cm,18.21,,30:57,1.765,1377147
+B,4,Tom Coles,31:00+4.146s,3.8w/kg,287w,311w,3.9w/kg,4.6w/kg,5.5w/kg,6.4w/kg,7.4w/kg,75.0kg,Mas,143bpm,167bpm,184cm,6.48,,31:00,4.146,17244
+B,5,Aaron Gunkel (OTR),31:01+5.150s,3.6w/kg,300w,331w,3.7w/kg,4.5w/kg,5.5w/kg,6.2w/kg,6.9w/kg,82.6kg,Mas,153bpm,183bpm,182cm,2.42,,31:01,5.15,5544483
+B,6,Lukas Grunt [RHINO],31:01+5.968s,3.9w/kg,274w,305w,4.0w/kg,4.8w/kg,6.2w/kg,7.0w/kg,7.5w/kg,70.0kg,Mas,168bpm,195bpm,180cm,,,31:01,5.968,5612586
+B,7,Peter Windridge,31:03+7.512s,3.6w/kg,274w,304w,3.7w/kg,4.7w/kg,5.9w/kg,6.8w/kg,7.5w/kg,75.2kg,Vet,152bpm,178bpm,181cm,1.89,,31:03,7.512,5339289
+B,8,Jules Jeucken [BEAT],31:06+10.666s,4.4w/kg,293w,304w,4.5w/kg,5.1w/kg,5.9w/kg,6.7w/kg,7.8w/kg,66.0kg,Snr,177bpm,194bpm,174cm,,,31:06,10.666,4686453
+B,9,Dave Bitschy [CN!D],31:06+10.675s,3.4w/kg,283w,316w,3.4w/kg,4.1w/kg,5.3w/kg,6.0w/kg,7.3w/kg,84.5kg,Vet,161bpm,186bpm,168cm,2.88,,31:06,10.675,1609605
+B,10,Daan Seegers,31:07+11.459s,3.7w/kg,355w,382w,3.8w/kg,4.3w/kg,5.7w/kg,6.7w/kg,8.1w/kg,95.0kg,Mas,185bpm,208bpm,196cm,,,31:07,11.459,6078839
+B,11,Gianmarco Donetti [INOX],31:09+13.595s,3.8w/kg,282w,307w,3.9w/kg,4.6w/kg,5.9w/kg,7.6w/kg,9.0w/kg,74.0kg,Mas,162bpm,182bpm,182cm,,,31:09,13.595,789201
+B,12,Stefan Schützer [SZ],31:09+14s,3.8w/kg,264w,285w,3.8w/kg,4.4w/kg,5.5w/kg,6.2w/kg,7.5w/kg,69.1kg,50+,149bpm,172bpm,174cm,,,31:09,14.0,49501
+B,13,Craig Genther8485,31:10+14.462s,4.0w/kg,307w,325w,4.0w/kg,4.3w/kg,5.1w/kg,6.4w/kg,7.0w/kg,76.7kg,50+,149bpm,165bpm,180cm,,,31:10,14.462,21864
+B,14,A tro Fee,31:12+16.796s,4.1w/kg,304w,327w,4.1w/kg,4.5w/kg,6.4w/kg,7.9w/kg,9.3w/kg,74.0kg,Vet,156bpm,173bpm,185cm,,,31:12,16.796,75896
+B,15,matt rawlinson,31:14+18.655s,4.3w/kg,321w,331w,4.3w/kg,4.6w/kg,5.4w/kg,6.2w/kg,7.0w/kg,75.0kg,50+,162bpm,177bpm,187cm,73.97,,31:14,18.655,6195042
+B,16,Andy Webb ,31:15+20.080s,4.0w/kg,280w,293w,4.0w/kg,4.3w/kg,4.9w/kg,6.1w/kg,7.2w/kg,70.3kg,Vet,170bpm,184bpm,172cm,10.58,,31:15,20.08,243138
+B,17,  Stuie D,31:16+20.445s,4.0w/kg,278w,295w,4.0w/kg,4.4w/kg,5.2w/kg,6.2w/kg,6.6w/kg,70.0kg,50+,157bpm,175bpm,183cm,4.31,,31:16,20.445,3155363
+B,18,Junco,31:17+21.553s,4.1w/kg,285w,299w,4.1w/kg,4.5w/kg,5.1w/kg,6.3w/kg,6.9w/kg,70.0kg,Vet,160bpm,176bpm,178cm,6.57,,31:17,21.553,1469993
+B,19,David Tabron [SISU],31:19+23.429s,4.0w/kg,267w,284w,4.0w/kg,4.3w/kg,5.4w/kg,6.5w/kg,7.1w/kg,67.0kg,Vet,180bpm,190bpm,181cm,,,31:19,23.429,3521031
+B,20,Petr Proschl (CSVC),31:22+26.276s,3.7w/kg,307w,329w,3.7w/kg,4.1w/kg,5.4w/kg,5.9w/kg,6.9w/kg,83.0kg,Vet,153bpm,172bpm,185cm,,,31:22,26.276,975076
+B,21,David Roberts,31:22+26.488s,3.9w/kg,300w,315w,3.9w/kg,4.2w/kg,5.3w/kg,6.2w/kg,6.7w/kg,,-,,,,,,31:22,26.488,4832450
+B,22,Diogo (3R | KRAKEN/Cycos) GHT,31:24+28.976s,3.7w/kg,271w,293w,3.7w/kg,4.2w/kg,5.1w/kg,6.2w/kg,7.3w/kg,73.8kg,Vet,153bpm,172bpm,179cm,,,31:24,28.976,1032451
+B,23,Chris Mayhew [VCRT],31:26+30.908s,3.8w/kg,282w,303w,3.8w/kg,4.2w/kg,5.1w/kg,6.5w/kg,6.9w/kg,75.0kg,Vet,157bpm,170bpm,188cm,14.69,,31:26,30.908,76623
+B,24,Patrik Beck [SCK],31:28+32.723s,3.6w/kg,264w,284w,3.6w/kg,3.9w/kg,5.1w/kg,5.9w/kg,6.6w/kg,73.5kg,50+,164bpm,175bpm,183cm,,,31:28,32.723,180801
+B,25,Lucia Lisco (Team Castelli pb Elite ),31:31+36.077s,4.0w/kg,252w,263w,4.0w/kg,4.3w/kg,5.4w/kg,6.1w/kg,6.9w/kg,63.5kg,Mas,153bpm,168bpm,175cm,9.83,,31:31,36.077,1581718
+B,26,Jordan Lafreniere,31:41+45.959s,3.9w/kg,271w,283w,3.9w/kg,4.2w/kg,5.2w/kg,5.9w/kg,6.5w/kg,69.9kg,Vet,159bpm,178bpm,177cm,,,31:41,45.959,5424154
+B,27,Rainer Beckers  [Dragons RT]  🐲🦁 ,32:19+01:23,3.4w/kg,248w,277w,3.5w/kg,3.8w/kg,5.3w/kg,6.0w/kg,6.5w/kg,74.0kg,50+,164bpm,178bpm,180cm,,,32:19,83.0,450459
+B,28,John Bamber,33:53+02:57,3.8w/kg,280w,293w,3.8w/kg,4.1w/kg,5.3w/kg,6.0w/kg,7.9w/kg,73.0kg,Vet,161bpm,177bpm,189cm,0.25,,33:53,177.0,248723
+B,29,Nikolaj Wehner [DZR],34:03+03:07,3.5w/kg,249w,267w,3.6w/kg,3.9w/kg,5.4w/kg,6.1w/kg,6.7w/kg,71.0kg,Vet,159bpm,169bpm,180cm,16.18,,34:03,187.0,1472460
+B,30,Jan Petr,34:21+03:25,3.5w/kg,300w,317w,3.6w/kg,3.9w/kg,5.2w/kg,5.9w/kg,7.1w/kg,86.9kg,Mas,171bpm,182bpm,190cm,56.06,,34:21,205.0,5608640
+B,31,Robert Pilato (SRT),34:57+04:01,3.6w/kg,295w,303w,3.7w/kg,4.2w/kg,4.6w/kg,5.1w/kg,5.9w/kg,82.0kg,50+,145bpm,153bpm,179cm,,,34:57,241.0,1428823
+B,32,Tim Vanden Hende (BZR),44:09+13:13,2.5w/kg,147w,199w,2.6w/kg,3.5w/kg,6.1w/kg,8.4w/kg,11.0w/kg,58.0kg,Mas,146bpm,186bpm,177cm,14.13,,44:09,793.0,5621066
+C,1,ADRIEN ROBIC [Team Allroads 56]🇲🇫,32:01,4.3w/kg,298w,319w,4.4w/kg,5.2w/kg,6.1w/kg,7.1w/kg,8.1w/kg,70.0kg,Mas,161bpm,183bpm,182cm,78.11,,32:01,0.0,1054461
+C,2,Lenny Harnischberg,32:12+11.408s,3.9w/kg,256w,270w,4.0w/kg,4.5w/kg,5.9w/kg,7.5w/kg,8.2w/kg,,-,,,,77.03,,32:12,11.408,1409266
+C,3,Christopher Vitorino,32:12+11.687s,4.0w/kg,324w,338w,4.0w/kg,4.3w/kg,5.7w/kg,7.1w/kg,7.9w/kg,82.0kg,Mas,157bpm,185bpm,180cm,75.94,,32:12,11.687,6115963
+C,4,Martin Lippmann,32:14+13.118s,3.9w/kg,314w,329w,4.0w/kg,4.2w/kg,5.1w/kg,5.9w/kg,6.7w/kg,80.0kg,Mas,160bpm,175bpm,182cm,74.85,,32:14,13.118,5211690
+C,5,Dennis Johansson [SZ],32:14+13.159s,3.7w/kg,267w,287w,3.6w/kg,4.1w/kg,5.5w/kg,6.8w/kg,7.6w/kg,73.0kg,Vet,171bpm,185bpm,171cm,7.08,,32:14,13.159,183185
+C,6,Alexander Vermeeren,32:15+14.487s,3.5w/kg,297w,313w,3.5w/kg,3.9w/kg,4.8w/kg,5.3w/kg,6.1w/kg,85.0kg,Mas,165bpm,181bpm,184cm,4.19,,32:15,14.487,1402157
+C,7,Kike Torregrosa,32:15+14.797s,3.9w/kg,280w,289w,3.9w/kg,4.2w/kg,5.3w/kg,5.5w/kg,6.3w/kg,71.0kg,Vet,167bpm,179bpm,172cm,71.59,,32:15,14.797,710093
+C,8,Eric Panhorst,32:15+14.885s,3.6w/kg,290w,307w,3.6w/kg,4.2w/kg,4.9w/kg,5.5w/kg,6.1w/kg,81.7kg,Vet,173bpm,190bpm,182cm,17.75,,32:15,14.885,201944
+C,9,Raffael Schmid,32:17+16.096s,3.8w/kg,270w,284w,3.9w/kg,4.8w/kg,5.4w/kg,6.2w/kg,6.8w/kg,71.0kg,Mas,149bpm,172bpm,175cm,4.54,,32:17,16.096,2414998
+C,10,G Ienn[ATGNI],32:21+20.249s,3.5w/kg,332w,349w,3.6w/kg,3.9w/kg,4.8w/kg,5.5w/kg,6.4w/kg,93.7kg,Mas,173bpm,183bpm,194cm,,,32:21,20.249,3518861
+C,11,Gaetan Torchy (BIKES-FR),32:24+23.552s,4.0w/kg,305w,311w,4.0w/kg,4.4w/kg,5.1w/kg,5.6w/kg,6.1w/kg,77.0kg,Mas,169bpm,184bpm,177cm,26.68,,32:24,23.552,6010713
+C,12,Daniele Congiu,32:25+24.454s,4.0w/kg,230w,237w,4.1w/kg,4.4w/kg,5.1w/kg,5.8w/kg,6.6w/kg,57.0kg,50+,156bpm,164bpm,170cm,32.23,,32:25,24.454,2351191
+C,13,Miles Cox,32:31+30.314s,3.7w/kg,262w,273w,3.7w/kg,4.2w/kg,5.2w/kg,5.5w/kg,6.1w/kg,71.0kg,Vet,171bpm,180bpm,170cm,11.78,,32:31,30.314,3028021
+C,14,Wojtek K,32:31+30.928s,3.9w/kg,271w,278w,4.0w/kg,4.4w/kg,5.2w/kg,5.4w/kg,5.6w/kg,69.0kg,Vet,167bpm,178bpm,176cm,29.47,,32:31,30.928,1399747
+C,15,Morten Andersen [Psykl],32:32+31.868s,3.7w/kg,296w,310w,3.7w/kg,4.0w/kg,5.1w/kg,5.9w/kg,6.1w/kg,80.5kg,Vet,164bpm,175bpm,183cm,,,32:32,31.868,4388827
+C,16,Samuel Veillette [CHN],32:39+38.683s,3.8w/kg,275w,282w,3.8w/kg,4.2w/kg,5.1w/kg,5.2w/kg,5.5w/kg,73.0kg,Mas,170bpm,175bpm,180cm,15.90,,32:39,38.683,5999071
+C,17,INNO S,32:53+52.273s,3.8w/kg,275w,283w,3.9w/kg,4.1w/kg,5.0w/kg,5.3w/kg,5.5w/kg,72.0kg,Vet,163bpm,172bpm,187cm,60.72,,32:53,52.273,3839685
+C,18,Matt Campbell,32:58+57.853s,3.2w/kg,306w,342w,3.2w/kg,3.8w/kg,4.6w/kg,5.8w/kg,6.8w/kg,97.0kg,Vet,155bpm,172bpm,180cm,,,32:58,57.853,973157
+C,19,Paul Templing,33:11+01:10,3.7w/kg,234w,243w,3.8w/kg,4.3w/kg,5.2w/kg,5.7w/kg,6.4w/kg,62.8kg,Mas,171bpm,179bpm,173cm,58.55,,33:11,70.0,3795612
+C,20,Johan Andersson [SZ],34:03+02:02,3.3w/kg,285w,312w,3.4w/kg,3.7w/kg,5.4w/kg,6.2w/kg,6.8w/kg,87.0kg,50+,148bpm,170bpm,182cm,,,34:03,122.0,317820
+C,21,Ray Schleck,34:04+02:03,3.3w/kg,276w,293w,3.4w/kg,4.0w/kg,4.7w/kg,5.8w/kg,6.4w/kg,83.0kg,Mas,163bpm,182bpm,185cm,12.94,,34:04,123.0,5394838
+C,22,Karel Hikl [CSVC],34:04+02:03,3.5w/kg,254w,269w,3.6w/kg,3.9w/kg,5.2w/kg,5.6w/kg,6.0w/kg,72.0kg,50+,160bpm,187bpm,183cm,,,34:04,123.0,3348692
+C,23,Cedric Foucault ,34:09+02:08,3.7w/kg,221w,228w,3.7w/kg,4.0w/kg,4.9w/kg,5.4w/kg,5.9w/kg,60.0kg,Vet,156bpm,167bpm,158cm,,,34:09,128.0,260987
+C,24,Amir Gharach,34:13+02:12,3.4w/kg,238w,252w,3.5w/kg,3.9w/kg,4.9w/kg,5.1w/kg,5.2w/kg,69.9kg,Vet,178bpm,186bpm,177cm,2.01,,34:13,132.0,2451423
+C,25,ROBERTO PIOVERO (TSE),34:22+02:21,3.3w/kg,243w,263w,3.3w/kg,4.0w/kg,4.9w/kg,5.9w/kg,6.5w/kg,73.0kg,50+,146bpm,176bpm,175cm,,,34:22,141.0,4669972
+C,26,tim wood,34:23+02:22,3.4w/kg,266w,284w,3.4w/kg,3.8w/kg,5.0w/kg,6.0w/kg,7.2w/kg,79.0kg,50+,162bpm,184bpm,185cm,30.94,,34:23,142.0,511204
+C,27,Andy Kroll (ATP),34:24+02:23,3.2w/kg,278w,299w,3.3w/kg,3.7w/kg,4.6w/kg,4.9w/kg,6.0w/kg,86.0kg,Mas,166bpm,176bpm,170cm,,,34:24,143.0,993035
+C,28,R Farooq,34:25+02:24,3.6w/kg,250w,256w,3.6w/kg,4.0w/kg,4.5w/kg,4.9w/kg,5.6w/kg,70.0kg,Vet,178bpm,188bpm,177cm,48.76,,34:25,144.0,4580490
+C,29,Aymerik Hervé,34:29+02:28,3.1w/kg,236w,259w,3.2w/kg,3.5w/kg,4.4w/kg,5.2w/kg,6.4w/kg,77.0kg,Vet,164bpm,175bpm,181cm,,,34:29,148.0,5774541
+C,30,Joel Melby,34:34+02:33,3.0w/kg,263w,283w,3.1w/kg,3.7w/kg,4.7w/kg,5.2w/kg,5.4w/kg,86.6kg,Mas,166bpm,173bpm,182cm,,,34:34,153.0,3582442
+C,31,Will Randolph,34:36+02:35,3.1w/kg,272w,292w,3.1w/kg,3.3w/kg,4.7w/kg,5.1w/kg,6.0w/kg,88.6kg,Mas,148bpm,180bpm,177cm,45.50,,34:36,155.0,1895730
+C,32,Lasse Linde Nielsen,34:39+02:38,3.7w/kg,257w,266w,3.7w/kg,4.3w/kg,5.0w/kg,6.3w/kg,7.0w/kg,70.0kg,Vet,171bpm,191bpm,180cm,44.41,,34:39,158.0,6943621
+C,33,Noah Klötzer,34:39+02:38,3.2w/kg,291w,300w,3.2w/kg,3.8w/kg,4.6w/kg,5.7w/kg,7.7w/kg,90.0kg,Snr,175bpm,192bpm,188cm,3.00,,34:39,158.0,5343233
+C,34,Gert Gerges,34:41+02:40,3.3w/kg,283w,303w,3.4w/kg,3.9w/kg,4.7w/kg,5.3w/kg,6.3w/kg,87.0kg,50+,153bpm,167bpm,188cm,,,34:41,160.0,279941
+C,35,Isaac Mercier [CHN],34:46+02:45,3.6w/kg,287w,292w,3.6w/kg,4.0w/kg,4.7w/kg,5.0w/kg,5.4w/kg,80.7kg,Mas,164bpm,175bpm,191cm,,,34:46,165.0,5571069
+C,36,Roger Nodeland,34:59+02:57,3.6w/kg,241w,252w,3.8w/kg,4.3w/kg,5.1w/kg,5.5w/kg,5.7w/kg,67.0kg,50+,178bpm,189bpm,181cm,,,34:59,177.0,192987
+C,37,Kenneth Lund H.(DBR),35:14+03:13,3.3w/kg,260w,279w,3.3w/kg,3.8w/kg,5.0w/kg,5.7w/kg,6.6w/kg,78.0kg,50+,152bpm,164bpm,183cm,9.14,,35:14,193.0,5009079
+C,38,Olivier benard,35:19+03:18,3.2w/kg,240w,252w,3.2w/kg,3.7w/kg,4.3w/kg,5.3w/kg,6.5w/kg,75.9kg,Vet,154bpm,174bpm,176cm,,,35:19,198.0,2488603
+C,39,Geoff Ripley,35:22+03:21,3.4w/kg,215w,222w,3.4w/kg,4.1w/kg,4.6w/kg,4.8w/kg,5.1w/kg,64.0kg,50+,161bpm,174bpm,167cm,19.24,,35:22,201.0,3038009
+C,40,Peter Voh,35:22+03:21,3.3w/kg,276w,283w,3.2w/kg,3.6w/kg,4.4w/kg,4.8w/kg,5.2w/kg,85.0kg,Mas,156bpm,171bpm,175cm,33.54,,35:22,201.0,4591932
+C,41,Mikey Askew,35:23+03:22,3.5w/kg,275w,281w,3.5w/kg,3.9w/kg,4.5w/kg,4.8w/kg,5.6w/kg,,-,,,,0.95,,35:23,202.0,6201876
+C,42,Nicolas Guillec,35:29+03:28,3.2w/kg,227w,237w,3.3w/kg,3.7w/kg,4.6w/kg,4.8w/kg,5.1w/kg,70.7kg,Mas,181bpm,191bpm,177cm,,,35:29,208.0,5039074
+C,43,Will Keller,35:33+03:32,3.1w/kg,264w,277w,3.1w/kg,3.5w/kg,4.2w/kg,5.4w/kg,5.8w/kg,85.6kg,60+,164bpm,181bpm,194cm,,,35:33,212.0,166492
+C,44,Mari Us // #fithalten,35:35+03:34,3.1w/kg,245w,259w,3.3w/kg,3.8w/kg,4.6w/kg,4.9w/kg,5.7w/kg,79.4kg,Mas,171bpm,181bpm,180cm,3.11,,35:35,214.0,2664622
+C,45,Igor Jakubowski,35:44+03:43,3.3w/kg,272w,288w,3.3w/kg,3.6w/kg,4.5w/kg,5.4w/kg,7.5w/kg,,-,,,,,,35:44,223.0,1397257
+C,46,Dave Pecuch,36:05+04:03,3.3w/kg,227w,237w,3.4w/kg,3.6w/kg,4.4w/kg,5.2w/kg,5.4w/kg,69.0kg,50+,147bpm,170bpm,173cm,24.85,,36:05,243.0,3316665
+C,47,k opyt,36:08+04:07,3.3w/kg,225w,235w,3.3w/kg,4.2w/kg,4.6w/kg,4.8w/kg,5.1w/kg,68.5kg,Vet,132bpm,154bpm,183cm,,,36:08,247.0,1395300
+C,48,Gilles RELIER ( CRSC ),36:13+04:12,3.6w/kg,180w,182w,3.7w/kg,3.9w/kg,4.2w/kg,4.3w/kg,4.6w/kg,50.0kg,60+,166bpm,171bpm,158cm,22.67,,36:13,252.0,6090501
+C,49,Samson,37:28+05:27,2.8w/kg,201w,222w,2.9w/kg,3.5w/kg,4.5w/kg,5.0w/kg,5.9w/kg,72.5kg,50+,135bpm,162bpm,173cm,,,37:28,327.0,4554452
+C,50,A Surge (RWB),37:30+05:29,2.8w/kg,265w,299w,3.2w/kg,3.6w/kg,4.6w/kg,5.5w/kg,6.3w/kg,94.0kg,Mas,144bpm,173bpm,183cm,,,37:30,329.0,2973139
+C,51,Marlin Krall,40:44+08:43,2.6w/kg,201w,279w,3.0w/kg,3.8w/kg,6.9w/kg,9.9w/kg,11.2w/kg,77.1kg,Mas,166bpm,188bpm,177cm,,,40:44,523.0,2837496
+C,52,S2TIN  (Herd),41:43+09:41,2.6w/kg,205w,219w,2.7w/kg,3.0w/kg,3.8w/kg,4.3w/kg,4.8w/kg,80.0kg,Vet,163bpm,176bpm,190cm,,,41:43,581.0,6260056
+C,53,Tom Turnacioglu [CLOWAT],42:24+10:23,2.4w/kg,179w,196w,2.5w/kg,2.8w/kg,3.8w/kg,5.2w/kg,6.6w/kg,74.0kg,50+,141bpm,164bpm,177cm,,,42:24,623.0,3724060
+C,54,Aldo Borzoni,45:16+13:15,2.4w/kg,159w,165w,2.6w/kg,2.9w/kg,3.3w/kg,3.8w/kg,4.3w/kg,67.0kg,Vet,155bpm,177bpm,170cm,15.06,,45:16,795.0,6847145
+D,1,Filippo Ferrari,33:58,3.4w/kg,251w,263w,3.4w/kg,3.9w/kg,5.2w/kg,6.5w/kg,7.1w/kg,75.0kg,Vet,160bpm,177bpm,188cm,48.61,,33:58,0.0,211889
+D,2,Jessica Upton [Rapha_RCC],34:07+9.443s,3.8w/kg,179w,183w,3.8w/kg,3.9w/kg,4.7w/kg,5.2w/kg,5.5w/kg,,-,,,,46.77,,34:07,9.443,705994
+D,3,Brent Garnett,34:11+13.221s,3.1w/kg,255w,266w,3.1w/kg,3.4w/kg,4.0w/kg,4.7w/kg,5.9w/kg,82.1kg,Mas,157bpm,180bpm,172cm,4.04,,34:11,13.221,6767043
+D,4,Fabien Gautron,34:12+14.736s,3.4w/kg,290w,302w,3.4w/kg,3.6w/kg,4.6w/kg,5.4w/kg,5.8w/kg,85.0kg,Mas,158bpm,176bpm,178cm,44.94,,34:12,14.736,1546466
+D,5,jeje floriot [FFZ],34:30+32.580s,3.7w/kg,250w,255w,3.8w/kg,4.2w/kg,4.8w/kg,5.3w/kg,5.9w/kg,67.0kg,Vet,176bpm,189bpm,178cm,44.02,,34:30,32.58,1575341
+D,6,Chris Jaakkola,34:36+38.228s,3.3w/kg,214w,221w,3.3w/kg,3.5w/kg,4.3w/kg,5.0w/kg,5.7w/kg,65.0kg,Mas,178bpm,192bpm,168cm,16.04,,34:36,38.228,5912763
+D,7,PJ Rijpstra,34:46+48.229s,3.3w/kg,254w,259w,3.4w/kg,3.6w/kg,4.2w/kg,4.9w/kg,5.2w/kg,78.0kg,50+,176bpm,200bpm,184cm,4.60,,34:46,48.229,6128256
+D,8,Torsten Bleich [R2],35:33+01:35,2.9w/kg,252w,266w,3.0w/kg,3.4w/kg,4.3w/kg,5.2w/kg,5.8w/kg,86.0kg,50+,156bpm,179bpm,190cm,,,35:33,95.0,1136530
+D,9,Thomas Martinez,35:33+01:35,3.7w/kg,263w,266w,3.7w/kg,3.8w/kg,4.6w/kg,5.0w/kg,5.2w/kg,72.0kg,U23,109bpm,187bpm,179cm,40.35,,35:33,95.0,6954281
+D,10,Rob Dougherty,35:40+01:42,2.9w/kg,265w,273w,3.0w/kg,3.3w/kg,3.7w/kg,4.4w/kg,4.8w/kg,90.9kg,Mas,173bpm,183bpm,173cm,9.81,,35:40,102.0,5829855
+D,11,clem jeanperrin [FFZ],35:40+01:42,3.5w/kg,177w,181w,3.6w/kg,4.0w/kg,4.5w/kg,4.9w/kg,5.7w/kg,50.0kg,Mas,172bpm,190bpm,158cm,37.60,,35:40,102.0,3178175
+D,12,Mark Deakin (Welly Wheelers Latte),35:44+01:46,3.0w/kg,233w,247w,3.1w/kg,3.4w/kg,4.1w/kg,5.4w/kg,6.4w/kg,78.0kg,50+,163bpm,172bpm,177cm,22.20,,35:44,106.0,2249287
+D,13,Maciej Sosnowski,35:45+01:47,3.2w/kg,269w,282w,3.3w/kg,3.5w/kg,4.5w/kg,5.8w/kg,7.0w/kg,83.0kg,Vet,161bpm,175bpm,186cm,,,35:45,107.0,3015752
+D,14,Marco Lingen,35:48+01:50,3.2w/kg,257w,264w,3.2w/kg,3.7w/kg,4.0w/kg,4.4w/kg,4.8w/kg,80.0kg,50+,166bpm,176bpm,191cm,34.85,,35:48,110.0,22195
+D,15,Gerrit Jakobs,35:51+01:53,3.1w/kg,260w,265w,3.2w/kg,3.5w/kg,4.0w/kg,4.4w/kg,5.3w/kg,83.0kg,Vet,156bpm,166bpm,190cm,33.94,,35:51,113.0,1765533
+D,16,Kevin Hoferer8353,35:52+01:54,3.3w/kg,213w,219w,3.4w/kg,3.7w/kg,4.2w/kg,4.9w/kg,5.7w/kg,64.0kg,50+,158bpm,174bpm,170cm,2.56,,35:52,114.0,500099
+D,17,Frederic Rode (BIKES-FR),35:58+02:00,3.3w/kg,232w,236w,3.3w/kg,3.5w/kg,4.1w/kg,4.6w/kg,5.0w/kg,71.0kg,Vet,162bpm,174bpm,179cm,8.12,,35:58,120.0,3378407
+D,18,Fred Bouché (LBL),35:58+02:00,3.2w/kg,223w,228w,3.2w/kg,3.7w/kg,4.1w/kg,4.5w/kg,4.8w/kg,70.0kg,Mas,172bpm,183bpm,174cm,31.19,,35:58,120.0,6240821
+D,19,evrard-nil Daillet,36:11+02:13,3.2w/kg,233w,242w,3.2w/kg,3.9w/kg,4.4w/kg,4.9w/kg,5.6w/kg,74.0kg,Snr,169bpm,178bpm,182cm,30.27,,36:11,133.0,6565802
+D,20,Paul C,36:20+02:22,3.0w/kg,183w,191w,3.0w/kg,3.3w/kg,4.2w/kg,4.5w/kg,4.7w/kg,61.7kg,50+,165bpm,172bpm,170cm,11.27,,36:20,142.0,2672
+D,21,James Park,36:54+02:56,2.6w/kg,239w,255w,2.7w/kg,3.2w/kg,4.0w/kg,4.4w/kg,5.8w/kg,90.9kg,Vet,157bpm,171bpm,183cm,9.28,,36:54,176.0,2025965
+D,22,Mark Blankensteiner,36:55+02:57,2.8w/kg,250w,265w,2.8w/kg,3.2w/kg,4.0w/kg,4.6w/kg,5.6w/kg,90.0kg,Vet,152bpm,163bpm,179cm,,,36:55,177.0,177891
+D,23,Calum Dodd,36:55+02:57,2.6w/kg,282w,297w,2.7w/kg,2.9w/kg,3.6w/kg,3.9w/kg,4.3w/kg,108.0kg,Mas,165bpm,185bpm,186cm,16.83,,36:55,177.0,5366717
+D,24,Adrien Meunier (BIKES-FR),37:07+03:08,3.0w/kg,191w,203w,3.0w/kg,3.4w/kg,4.6w/kg,6.7w/kg,8.4w/kg,64.0kg,Mas,171bpm,201bpm,169cm,25.69,,37:07,188.0,5184367
+D,25,Bradley Cooper [Coalition],37:07+03:09,2.8w/kg,196w,216w,2.8w/kg,3.2w/kg,4.4w/kg,6.3w/kg,8.5w/kg,71.0kg,Mas,159bpm,185bpm,172cm,,,37:07,189.0,873830
+D,26,Seth Haskell,37:09+03:11,2.8w/kg,248w,263w,2.9w/kg,3.1w/kg,4.0w/kg,4.9w/kg,6.3w/kg,87.6kg,Vet,165bpm,182bpm,188cm,23.85,,37:09,191.0,247916
+D,27,David Moen,37:10+03:12,2.6w/kg,261w,286w,2.7w/kg,3.1w/kg,3.9w/kg,4.8w/kg,5.7w/kg,102.0kg,,156bpm,170bpm,188cm,,,37:10,192.0,5662265
+D,28,Chuck Worn,37:18+03:20,2.8w/kg,276w,299w,2.8w/kg,3.0w/kg,3.7w/kg,4.7w/kg,5.8w/kg,99.8kg,Vet,156bpm,166bpm,185cm,,,37:18,200.0,4755128
+D,29,David Lowry,37:25+03:27,2.8w/kg,227w,237w,2.9w/kg,3.1w/kg,3.7w/kg,4.2w/kg,5.1w/kg,82.6kg,60+,180bpm,189bpm,175cm,17.12,,37:25,207.0,1076808
+D,30,Marcelo Wittenkamp,37:31+03:32,2.6w/kg,284w,303w,2.7w/kg,2.9w/kg,3.9w/kg,4.6w/kg,5.8w/kg,111.0kg,Mas,174bpm,183bpm,193cm,3.80,,37:31,212.0,6794458
+D,31,Andre Sandmann,38:08+04:10,2.8w/kg,244w,249w,2.9w/kg,3.3w/kg,3.9w/kg,3.9w/kg,4.2w/kg,87.0kg,Mas,167bpm,174bpm,184cm,19.27,,38:08,250.0,5223899
+D,32,Jarrett Rodrigues,38:12+04:14,2.9w/kg,241w,247w,3.0w/kg,3.2w/kg,3.7w/kg,4.2w/kg,5.2w/kg,83.9kg,Mas,171bpm,181bpm,188cm,18.35,,38:12,254.0,2983886
+D,33,John Steely,38:15+04:17,3.0w/kg,195w,199w,3.0w/kg,3.2w/kg,3.8w/kg,4.4w/kg,4.8w/kg,65.8kg,60+,156bpm,171bpm,170cm,2.63,,38:15,257.0,223849
+D,34,Joe Schäfer,38:16+04:18,2.9w/kg,177w,185w,3.1w/kg,3.7w/kg,4.3w/kg,4.9w/kg,4.9w/kg,61.0kg,50+,146bpm,166bpm,166cm,7.46,,38:16,258.0,5220723
+D,35,Erik Øihaugen,38:18+04:20,2.8w/kg,222w,229w,2.8w/kg,3.0w/kg,3.7w/kg,4.1w/kg,4.6w/kg,80.0kg,Vet,163bpm,178bpm,172cm,9.09,,38:18,260.0,119673
+D,36,Simone Balle,38:20+04:22,3.0w/kg,210w,213w,3.0w/kg,3.4w/kg,4.0w/kg,4.1w/kg,4.4w/kg,70.0kg,Mas,177bpm,186bpm,174cm,14.68,,38:20,262.0,6850470
+D,37,Joonas Sillanpää,38:30+04:32,2.7w/kg,213w,221w,2.7w/kg,3.0w/kg,3.5w/kg,4.3w/kg,5.0w/kg,79.0kg,Mas,147bpm,171bpm,180cm,13.77,,38:30,272.0,1745035
+D,38,Hubertus H@rt,38:30+04:32,2.8w/kg,239w,241w,2.9w/kg,3.1w/kg,3.4w/kg,3.5w/kg,3.6w/kg,85.0kg,50+,150bpm,162bpm,190cm,12.85,,38:30,272.0,4117259
+D,39,Rune Thyboe,38:32+04:33,2.5w/kg,230w,244w,2.5w/kg,2.7w/kg,3.6w/kg,4.2w/kg,4.9w/kg,94.0kg,Vet,156bpm,172bpm,198cm,,,38:32,273.0,5010051
+D,40,Damien Gotfroi (BIKES-FR),38:39+04:40,2.8w/kg,199w,205w,2.9w/kg,3.2w/kg,3.7w/kg,4.6w/kg,4.6w/kg,71.0kg,Mas,154bpm,166bpm,177cm,11.02,,38:39,280.0,6902322
+D,41,Christian Wedel,38:57+04:59,2.8w/kg,206w,212w,2.8w/kg,3.0w/kg,3.8w/kg,4.6w/kg,5.2w/kg,74.0kg,Vet,155bpm,165bpm,182cm,,,38:57,299.0,4647263
+D,42,Tomas Vrba,39:03+05:05,2.7w/kg,212w,221w,2.8w/kg,3.0w/kg,3.6w/kg,4.1w/kg,4.6w/kg,80.0kg,Mas,182bpm,191bpm,175cm,,,39:03,305.0,2934210
+D,43,Peter Fruergaard,39:08+05:10,3.0w/kg,200w,203w,3.1w/kg,3.3w/kg,4.0w/kg,4.0w/kg,4.1w/kg,67.0kg,Vet,171bpm,180bpm,176cm,6.43,,39:08,310.0,6383137
+D,44,O.Bolset,39:15+05:17,2.7w/kg,190w,195w,2.8w/kg,3.0w/kg,3.5w/kg,3.8w/kg,4.3w/kg,70.0kg,Mas,170bpm,185bpm,176cm,,,39:15,317.0,804230
+D,45,Stan Watson,39:27+05:29,2.4w/kg,255w,262w,2.4w/kg,2.5w/kg,3.0w/kg,3.4w/kg,4.3w/kg,106.6kg,60+,147bpm,154bpm,190cm,4.60,,39:27,329.0,2830693
+D,46,Rosa Manning (Freedom Zwifters),39:34+05:36,3.2w/kg,197w,,,,,,,62.6kg,Mas,152bpm,,158cm,3.68,,39:34,336.0,5038074
+D,47,Francisco Redondo,39:57+05:59,2.5w/kg,206w,218w,2.7w/kg,2.8w/kg,3.4w/kg,4.1w/kg,4.4w/kg,83.0kg,Vet,158bpm,180bpm,180cm,2.77,,39:57,359.0,5035024
+D,48,Alfred Lazi  🇦🇹 ,40:04+06:06,2.4w/kg,202w,213w,2.6w/kg,2.9w/kg,3.3w/kg,3.8w/kg,4.3w/kg,84.0kg,50+,174bpm,182bpm,172cm,1.85,,40:04,366.0,935777
+D,49,Anselmo Silva [TugaZ],40:48+06:50,2.3w/kg,239w,250w,2.4w/kg,2.5w/kg,3.1w/kg,3.8w/kg,4.5w/kg,102.0kg,50+,154bpm,170bpm,187cm,,,40:48,410.0,5441450
+D,50,Daniel Mosmondor - Mosh,41:02+07:04,2.4w/kg,217w,225w,2.5w/kg,2.6w/kg,3.1w/kg,3.5w/kg,4.2w/kg,92.0kg,50+,142bpm,154bpm,186cm,0.02,,41:02,424.0,120421
+D,51,Ryan Taylor,41:08+07:10,2.3w/kg,217w,229w,2.4w/kg,2.6w/kg,3.3w/kg,4.1w/kg,5.0w/kg,92.7kg,Vet,169bpm,187bpm,182cm,,,41:08,430.0,4472548
+D,52,Steen Junkerbo,42:04+08:06,2.5w/kg,209w,216w,2.6w/kg,2.9w/kg,3.5w/kg,4.0w/kg,4.4w/kg,,-,,,,,,42:04,486.0,1065753
+D,53,Windy waves 🏄🏼‍♀️💨,42:11+08:13,2.3w/kg,180w,198w,2.6w/kg,2.9w/kg,3.5w/kg,4.0w/kg,4.4w/kg,77.0kg,50+,147bpm,172bpm,181cm,,,42:11,493.0,912942
+D,54,vi- Foudre,42:16+08:18,2.3w/kg,181w,209w,2.7w/kg,2.9w/kg,3.9w/kg,4.5w/kg,5.3w/kg,80.0kg,Mas,161bpm,178bpm,181cm,,,42:16,498.0,5920390
+D,55,C Arias,42:27+08:29,2.3w/kg,207w,234w,2.6w/kg,2.8w/kg,3.4w/kg,4.1w/kg,4.5w/kg,92.0kg,Vet,149bpm,169bpm,184cm,,,42:27,509.0,2098772
+D,56,Steve Langers (PCH/ABR),42:49+08:51,2.3w/kg,183w,188w,2.3w/kg,2.5w/kg,2.9w/kg,3.3w/kg,3.3w/kg,80.0kg,50+,144bpm,161bpm,185cm,,,42:49,531.0,4914392
+D,57,Craig Dickson (HERD),42:50+08:52,2.2w/kg,201w,220w,2.5w/kg,2.6w/kg,3.3w/kg,3.8w/kg,4.1w/kg,90.0kg,50+,134bpm,154bpm,180cm,,,42:50,532.0,810617
+D,58,Mike Bender,44:01+10:03,2.2w/kg,200w,218w,2.4w/kg,2.7w/kg,3.6w/kg,4.4w/kg,4.6w/kg,92.0kg,Vet,168bpm,183bpm,186cm,,,44:01,603.0,6045114
+D,59,Rob Watson - Freedom Tri,44:35+10:37,2.3w/kg,142w,152w,2.4w/kg,2.7w/kg,3.3w/kg,3.9w/kg,4.1w/kg,63.0kg,Mas,161bpm,180bpm,165cm,,,44:35,637.0,3777514
+D,60,Shawn Price-Team ZF,45:15+11:17,1.8w/kg,169w,186w,1.9w/kg,2.1w/kg,2.8w/kg,3.0w/kg,3.2w/kg,92.8kg,Vet,149bpm,169bpm,185cm,,,45:15,677.0,87466
+D,61,David Ray,45:40+11:42,2.2w/kg,138w,148w,2.4w/kg,2.8w/kg,3.2w/kg,3.7w/kg,4.6w/kg,63.5kg,50+,168bpm,178bpm,172cm,,,45:40,702.0,4874702
+D,62,Lionel Le Jeune,47:28+13:29,1.9w/kg,151w,160w,2.0w/kg,2.3w/kg,2.9w/kg,3.0w/kg,3.8w/kg,78.0kg,Vet,154bpm,169bpm,186cm,,,47:28,809.0,1841829
+D,63,Patrick Volkmar,53:20+19:22,1.7w/kg,125w,130w,1.9w/kg,2.0w/kg,2.3w/kg,2.5w/kg,2.9w/kg,74.5kg,Vet,136bpm,147bpm,171cm,,,53:20,1162.0,6091649
+E,1,Phillip Fischer,42:36,2.2w/kg,240w,258w,2.2w/kg,2.3w/kg,3.4w/kg,3.9w/kg,4.1w/kg,111.6kg,Mas,167bpm,184bpm,193cm,17.11,,42:36,0.0,4923701
+E,2,Andreas Träff,42:55+19.142s,2.3w/kg,171w,175w,2.5w/kg,2.6w/kg,3.0w/kg,3.3w/kg,3.6w/kg,73.0kg,50+,152bpm,158bpm,185cm,5.16,,42:55,19.142,978177
+E,3,Mark Garrison,43:46+01:10,2.1w/kg,207w,221w,2.3w/kg,2.5w/kg,3.0w/kg,3.5w/kg,4.2w/kg,99.8kg,50+,172bpm,184bpm,193cm,10.22,,43:46,70.0,1119107
+E,4,Shawn Quare,44:23+01:47,2.4w/kg,178w,180w,2.5w/kg,2.7w/kg,2.9w/kg,3.1w/kg,3.4w/kg,74.8kg,60+,148bpm,167bpm,185cm,6.78,,44:23,107.0,6107039
+E,5,Diane Mosher [OWL],44:44+02:08,2.2w/kg,155w,163w,2.2w/kg,2.4w/kg,3.0w/kg,3.7w/kg,4.7w/kg,69.9kg,60+,141bpm,155bpm,167cm,3.34,,44:44,128.0,5605027
+E,6,Andrew Carter,44:56+02:20,2.1w/kg,171w,183w,2.2w/kg,2.4w/kg,3.3w/kg,4.2w/kg,6.3w/kg,82.1kg,Mas,166bpm,185bpm,167cm,,,44:56,140.0,985566
+E,7,Graeme Newton,48:34+05:57,1.9w/kg,155w,157w,2.0w/kg,2.1w/kg,2.3w/kg,2.4w/kg,2.6w/kg,,-,,,,,,48:34,357.0,6350290
