@@ -14,7 +14,7 @@ from selenium.webdriver.chrome.options import Options
 from bs4 import BeautifulSoup
 
 
-CHROME_DRIVER_PATH = './chromedriver_130'
+CHROME_DRIVER_PATH = './driver/chromedriver_130'
 SLEEP_TIME = 3
 ATHLETE_COL = 'athlete_col'
 TABLE_EVENT_RESULTS_FINAL="table_event_results_final"
