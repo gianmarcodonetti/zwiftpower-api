@@ -167,7 +167,7 @@ def main():
     df['Zwift_ID'] = zwift_ids
 
     event_id = event_page.split('=')[-1]
-    filename = os.path.join("data", "f"event_{event_id}_results.xlsx")
+    filename = os.path.join("data", f"event_{event_id}_results.xlsx")
     logging.info("Saving the results to excel: {}".format(filename))
     df.to_excel(filename, index=False)
 
