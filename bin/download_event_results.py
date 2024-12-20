@@ -64,6 +64,7 @@ def main():
     logging.info("Starting the driver")
     driver = webdriver.Chrome(options=chrome_opts, service=service)
 
+    start_time = time.time()
     screenshots_path = os.path.join("screenshots", "timestamp={}".format(start_time.strftime("%Y-%m-%d_%H-%M-%S")))
     if not os.path.exists(screenshots_path):
         os.makedirs(screenshots_path)
