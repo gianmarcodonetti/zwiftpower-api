@@ -164,7 +164,7 @@ if __name__ == '__main__':
     set_logger()
     logging.info(__file__)
     
-    username = input("Username: ") # gianmarco.donetti@yahoo.it
+    username = input("Username: ") # gianmarco.donetti
     password = getpass("Password: ") # keep it safe
     event_page = input("Event results page: ") # "https://zwiftpower.com/events.php?zid=4616453"
     
