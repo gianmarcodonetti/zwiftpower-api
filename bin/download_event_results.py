@@ -13,8 +13,7 @@ from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
 from bs4 import BeautifulSoup
 
-
-CHROME_DRIVER_PATH = './driver/chromedriver_130'
+CHROME_DRIVER_PATH = './driver/chromedriver_131_win64.exe'
 SLEEP_TIME = 3
 ATHLETE_COL = 'athlete_col'
 TABLE_EVENT_RESULTS_FINAL="table_event_results_final"
@@ -47,7 +46,7 @@ def set_logger():
         handlers=handlers
     )
     
-def main(event_page, username, password):
+def main():
 
     service = Service(executable_path=CHROME_DRIVER_PATH)
 
@@ -67,7 +66,11 @@ def main(event_page, username, password):
     screenshots_path = os.path.join("screenshots", "timestamp={}".format(start_time.strftime("%Y-%m-%d_%H:%M:%S")))
     if not os.path.exists(screenshots_path):
         os.makedirs(screenshots_path)
-        
+    
+    username = input("Username: ") # gianmarco.donetti
+    password = getpass("Password: ") # keep it safe
+    event_page = input("Event results page: ") # "https://zwiftpower.com/events.php?zid=4616453"
+    
     driver.get(event_page)
     time.sleep(SLEEP_TIME)
     driver.maximize_window()
@@ -163,9 +166,4 @@ def main(event_page, username, password):
 if __name__ == '__main__':
     set_logger()
     logging.info(__file__)
-    
-    username = input("Username: ") # gianmarco.donetti
-    password = getpass("Password: ") # keep it safe
-    event_page = input("Event results page: ") # "https://zwiftpower.com/events.php?zid=4616453"
-    
-    main(event_page, username, password)
+    main()
