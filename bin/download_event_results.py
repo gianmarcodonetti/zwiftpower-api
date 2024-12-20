@@ -13,7 +13,7 @@ from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
 from bs4 import BeautifulSoup
 
-CHROME_DRIVER_PATH = './driver/chromedriver_131_win64.exe'
+CHROME_DRIVER_PATH = './driver/chromedriver.exe'
 SLEEP_TIME = 3
 ATHLETE_COL = 'athlete_col'
 TABLE_EVENT_RESULTS_FINAL="table_event_results_final"
@@ -48,6 +48,7 @@ def set_logger():
     
 def main():
 
+    logging.info("Starting the script")
     service = Service(executable_path=CHROME_DRIVER_PATH)
 
     chrome_opts = Options()
@@ -60,13 +61,14 @@ def main():
     chrome_opts.add_argument('--disable-dev-shm-usage')
     chrome_opts.add_argument('--remote-debugging-port=9222')
     
+    logging.info("Starting the driver")
     driver = webdriver.Chrome(options=chrome_opts, service=service)
 
-    start_time = datetime.now()
-    screenshots_path = os.path.join("screenshots", "timestamp={}".format(start_time.strftime("%Y-%m-%d_%H:%M:%S")))
+    screenshots_path = os.path.join("screenshots", "timestamp={}".format(start_time.strftime("%Y-%m-%d_%H-%M-%S")))
     if not os.path.exists(screenshots_path):
         os.makedirs(screenshots_path)
     
+    logging.info("Driver started. Asking for credentials")
     username = input("Username: ") # gianmarco.donetti
     password = getpass("Password: ") # keep it safe
     event_page = input("Event results page: ") # "https://zwiftpower.com/events.php?zid=4616453"
@@ -77,6 +79,7 @@ def main():
     driver.save_screenshot(os.path.join(screenshots_path, "landing_page.png"))
 
     # login redirect
+    logging.info("Logging in")
     element = driver.find_element(By.XPATH, login_button)
     element.click()
     driver.save_screenshot(os.path.join(screenshots_path, "login.png"))
@@ -88,10 +91,12 @@ def main():
     driver.save_screenshot(os.path.join(screenshots_path, "inside.png"))
 
     # reset home page
+    logging.info("Resetting the page after login")
     driver.get(event_page)
     driver.save_screenshot(os.path.join(screenshots_path, "event_page_reset.png"))
 
     # scrape the table results
+    logging.info("Scraping the table")
     table_element = driver.find_element(By.XPATH, table_xpath)
     table_html = table_element.get_attribute('outerHTML')
 
@@ -99,6 +104,7 @@ def main():
     table = soup.find('table') # Trova la prima tabella nel codice HTML
 
     # Estrai i nomi delle colonne
+    logging.info("Extracting the table header")
     headers = []
     if table.find('thead'):  # Verifica se esiste un'intestazione
         header_row = table.find('thead').find('tr')
@@ -112,6 +118,7 @@ def main():
             headers = [ele.text.strip() for ele in header_row.find_all('td')]
 
 
+    logging.info("Extracting the table data")
     data = []
     if headers:
         starting_row = 1 if table.find('thead') else 1 # Salta la prima riga se già usata come intestazione
@@ -140,6 +147,7 @@ def main():
 
         data.append([ele for ele in cols_stripped]) # non eliminare celle vuote
 
+    logging.info("Creating the pandas dataframe")
     headers[0] = 'cat'
     df = pd.DataFrame(data, columns=headers) if headers else pd.DataFrame(data)
 
@@ -159,8 +167,9 @@ def main():
     df['Zwift_ID'] = zwift_ids
 
     event_id = event_page.split('=')[-1]
-
-    df.to_excel(f'results_{event_id}.xlsx', index=False)
+    filename = os.path.join("data", "f"event_{event_id}_results.xlsx")
+    logging.info("Saving the results to excel: {}".format(filename))
+    df.to_excel(filename, index=False)
 
 
 if __name__ == '__main__':
