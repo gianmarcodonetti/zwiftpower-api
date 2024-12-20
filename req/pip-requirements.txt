@@ -1,7 +1,5 @@
 numpy
 pandas
-google-cloud-storage
-google-cloud-secret-manager
 selenium
 webdriver_manager
 bs4
